@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a specific Ruby on Rails, React, GraphQl, Shopify setup type 'bundle install' in the terminal or command line
+to properly install the packages along with yarn install then you type 'rails s' to run the server. 
+Still more configuration to be done with shopify.
