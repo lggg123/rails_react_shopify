@@ -27,6 +27,9 @@ gem 'graphql'
 # shopify_app gem
 gem 'shopify_app'
 
+# load .env
+gem 'dotenv-rails'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 

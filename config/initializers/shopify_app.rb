@@ -1,3 +1,5 @@
+require 'dotenv'
+
 ShopifyApp.configure do |config|
   config.application_name = "My Shopify App"
   config.old_secret = ""
